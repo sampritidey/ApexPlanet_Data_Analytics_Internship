@@ -157,10 +157,9 @@ The resulting customer segments were analysed by spending, category, city, gende
 
 The final cluster results are summarized below.
 
-Cluster	Customers	Average_Spending	Total_Spending	Average_Quantity	Average_Orders	Average_Order_Value
-0	613	74070.26	45405069.44	4.21	1	74070.26
-1	282	275959.46	77820568.67	8.01	1	275959.46
-2	52	311034.64	16173801.54	11.46	2.02	154135.29
+
+<img width="1007" height="97" alt="image" src="https://github.com/user-attachments/assets/fb94f3b9-7eef-41ba-82d7-a213913a2b7b" />
+
 
 
 ---
