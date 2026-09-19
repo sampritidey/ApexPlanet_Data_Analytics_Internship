@@ -157,13 +157,12 @@ The resulting customer segments were analysed by spending, category, city, gende
 
 The final cluster results are summarized below.
 
-| Customer Segment | Number of Customers | Total Spending | Average Order Value |
-| ---------------- | ------------------: | -------------: | ------------------: |
-| Cluster 0        |         [FILL THIS] |    [FILL THIS] |         [FILL THIS] |
-| Cluster 1        |         [FILL THIS] |    [FILL THIS] |         [FILL THIS] |
-| Cluster 2        |         [FILL THIS] |    [FILL THIS] |         [FILL THIS] |
+Cluster	Customers	Average_Spending	Total_Spending	Average_Quantity	Average_Orders	Average_Order_Value
+0	613	74070.26	45405069.44	4.21	1	74070.26
+1	282	275959.46	77820568.67	8.01	1	275959.46
+2	52	311034.64	16173801.54	11.46	2.02	154135.29
+<img width="1007" height="97" alt="image" src="https://github.com/user-attachments/assets/d55c7293-a116-46e9-82e1-372678dfa71d" />
 
-> Replace the above values with the actual values from `Cluster_Summary.xlsx`.
 
 ---
 
