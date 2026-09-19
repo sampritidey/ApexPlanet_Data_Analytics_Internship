@@ -161,7 +161,6 @@ Cluster	Customers	Average_Spending	Total_Spending	Average_Quantity	Average_Order
 0	613	74070.26	45405069.44	4.21	1	74070.26
 1	282	275959.46	77820568.67	8.01	1	275959.46
 2	52	311034.64	16173801.54	11.46	2.02	154135.29
-<img width="1007" height="97" alt="image" src="https://github.com/user-attachments/assets/d55c7293-a116-46e9-82e1-372678dfa71d" />
 
 
 ---
