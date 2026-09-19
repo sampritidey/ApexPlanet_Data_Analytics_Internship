@@ -223,19 +223,19 @@ The main findings from the customer segmentation analysis are:
 
 ### Specific Findings
 
-**Highest-spending segment:** [FILL THIS]
+**Highest-spending segment:** Cluster 1 — ₹77,820,568.67 in total sales
 
-**Segment with the highest number of customers:** [FILL THIS]
+**Segment with the highest number of customers:** Cluster 0 — 613 unique customers
 
-**Segment with the highest average order value:** [FILL THIS]
+**Segment with the highest average order value:** Cluster 1 — ₹278,926.77 per order
 
-**Category with the highest sales:** [FILL THIS]
+**Category with the highest sales:** Electronics — ₹50,778,581.70
 
-**City with the highest sales:** [FILL THIS]
+**City with the highest sales:** Patna — ₹19,285,966.89
 
-**Important segment/category observation:** [FILL THIS]
+**Important segment/category observation:** Cluster 1 is the highest-spending customer segment, and Electronics is its strongest-performing category with ₹28,820,495.16 in sales. Electronics is also the highest-selling category across all three customer segments.
 
-**Important segment/city observation:** [FILL THIS]
+**Important segment/city observation:** Cluster 1 records its highest sales in Bengaluru (₹12,204,439.65), whereas Cluster 0 and Cluster 2 record their highest city-level sales in Mumbai, with ₹6,038,535.26 and ₹3,175,556.47 respectively.
 
 ---
 
