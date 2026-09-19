@@ -271,10 +271,8 @@ Task3/
 ├── Python_Code/
 │   └── Customer_Segmentation.py
 │
-├── Deep_Dive_Report/
-│   └── Deep_Dive_Report.pdf
 │
-└── README.md
+└── deep dive report/README.md
 ```
 
 ---
@@ -283,7 +281,7 @@ Task3/
 
 ### Live Looker Studio Dashboard
 
-**[PASTE YOUR LIVE LOOKER STUDIO LINK HERE]**
+https://datastudio.google.com/reporting/b951b80e-a4d5-4e9f-b801-4788e98671ff
 
 ---
 
