@@ -128,8 +128,8 @@ The second task focused on discovering patterns, trends, relationships, and busi
 * SQL Results
 * Business Insights
 * Dashboard Mock-up
-
-🔗 **[View Task 2 Repository](YOUR_TASK_2_GITHUB_LINK)**
+  
+🔗 **https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task2_EDA_Business_Intelligence**
 
 ---
 
@@ -177,7 +177,7 @@ The analysis included metrics such as:
 * Interactive Dashboard
 * Dashboard Link
 
-🔗 **[View Task 3 Repository](YOUR_TASK_3_GITHUB_LINK)**
+🔗 **https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task3%20%E2%80%93%20Deep-Dive%20Analysis%20%26%20Interactive%20Dashboarding**
 
 ---
 
@@ -229,7 +229,7 @@ The analysis considered:
 * Data Story
 * Statistical Analysis
 
-🔗 **[View Task 4 Repository](YOUR_TASK_4_GITHUB_LINK)**
+🔗 **https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task4**
 
 ---
 
@@ -441,8 +441,8 @@ Through this internship, I gained practical experience in analyzing data, creati
 
 # 🔗 Connect With Me
 
-* **GitHub:** 
-* **LinkedIn:** 
+* **GitHub:** https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main
+* **LinkedIn:** https://www.linkedin.com/in/sampriti-dey-b95a58326
 
 ---
 
