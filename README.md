@@ -84,7 +84,7 @@ The first task focused on understanding, profiling, cleaning, and preparing the 
 * Cleaned Dataset
 * Documentation
 
-🔗 **[View Task 1 Repository](YOUR_TASK_1_GITHUB_LINK)**
+🔗 **https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task1_Data_Immersion_Wrangling**
 
 ---
 
