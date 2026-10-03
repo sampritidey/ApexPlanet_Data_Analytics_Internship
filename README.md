@@ -389,11 +389,11 @@ This workflow helped me understand how different stages of data analytics are co
 
 | Task   | Area                                       | Repository                             |
 | ------ | ------------------------------------------ | -------------------------------------- |
-| Task 1 | Data Immersion & Wrangling                 | [View Task 1](YOUR_TASK_1_GITHUB_LINK) |
-| Task 2 | EDA & Business Intelligence                | [View Task 2](YOUR_TASK_2_GITHUB_LINK) |
-| Task 3 | Deep-Dive Analysis & Dashboarding          | [View Task 3](YOUR_TASK_3_GITHUB_LINK) |
-| Task 4 | Data Storytelling & Statistical Validation | [View Task 4](YOUR_TASK_4_GITHUB_LINK) |
-| Task 5 | Capstone Portfolio                         | This Repository                        |
+| Task 1 | Data Immersion & Wrangling                 | https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task1_Data_Immersion_Wrangling |
+| Task 2 | EDA & Business Intelligence                | https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task2_EDA_Business_Intelligence |
+| Task 3 | Deep-Dive Analysis & Dashboarding          | https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task3%20%E2%80%93%20Deep-Dive%20Analysis%20%26%20Interactive%20Dashboarding |
+| Task 4 | Data Storytelling & Statistical Validation | https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task4 |
+| Task 5 | Capstone Portfolio                         |https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task5                      |
 
 ---
 
@@ -401,7 +401,7 @@ This workflow helped me understand how different stages of data analytics are co
 
 The final presentation brings together the major findings, analytical methods, business insights, technical skills, and learning outcomes from the internship.
 
-📁 **[View / Download Final Presentation](./Final_Presentation)**
+📁 **https://github.com/sampritidey/SampritiDey-DataAnalyst-Internship-Portfolio/tree/main/Task5/Final_Presentation**
 
 ---
 
